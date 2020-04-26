@@ -11,7 +11,7 @@ namespace LinkedListProject
             lList.ListItems();
             lList.AddEnd(1);
             lList.ListItems();
-            lList.AddEnd(2);
+            lList.AddEnd(3);
             lList.ListItems();
             lList.AddEnd(3);
             lList.ListItems();
